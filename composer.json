@@ -1,0 +1,13 @@
+{
+    "name": "blob-factory/composer-tests",
+    "description": "tests for composer",
+    "type": "drupal-test",
+    "authors": [
+        {
+            "name": "Vahe Chahbenderian",
+            "email": "me@wwwahe.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

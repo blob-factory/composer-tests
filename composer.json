@@ -8,6 +8,14 @@
             "email": "me@wwwahe.com"
         }
     ],
+    "repositories": {
+      "drupal": {
+        "type": "composer",
+        "url": "https://packages.drupal.org/8"
+      }
+    },
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "drupal/focal_point": "^2.0@dev"
+    }
 }
